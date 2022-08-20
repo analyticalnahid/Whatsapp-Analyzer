@@ -8,6 +8,8 @@ An simple whatsapp analyzer using heuristic nlp based approach. You have to just
 
 You can follow my tutorial on youtube -> https://www.youtube.com/watch?v=IvRCp9hMdFo
 
+## Try Demo!
+No need to install try it out. https://whatsappanalyzers.herokuapp.com/
 
 ## Requirements
 - streamlit
