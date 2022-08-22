@@ -4,6 +4,8 @@
 
 An simple whatsapp analyzer using heuristic nlp based approach. You have to just upload your exported  .txt file that's all.
 
+<img src="Whatsapp Analyzer - Thumbnail.png">
+
 ## How to export txt file?
 
 You can follow my tutorial on youtube -> https://www.youtube.com/watch?v=IvRCp9hMdFo
